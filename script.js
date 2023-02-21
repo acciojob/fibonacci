@@ -1,1 +1,5 @@
-//your JS code here. If required.
+function fibonacci(num) {
+// your code here
+}
+
+module.exports = fibonacci;
